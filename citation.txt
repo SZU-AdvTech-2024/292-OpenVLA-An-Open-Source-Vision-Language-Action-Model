@@ -2,6 +2,5 @@
     author = "Kim, Moo Jin and Pertsch, Karl and Karamcheti, Siddharth and Xiao, Ted and Balakrishna, Ashwin and Nair, Suraj and Rafailov, Rafael and Foster, Ethan P and Sanketi, Pannag R and Vuong, Quan and Kollar, Thomas and Burchfiel, Benjamin and Tedrake, Russ and Sadigh, Dorsa and Levine, Sergey and Liang, Percy and Finn, Chelsea",
     booktitle = "8th Annual Conference on Robot Learning",
     title = "{Open{VLA}: An Open-Source Vision-Language-Action Model}",
-    url = "https://openreview.net/forum?id=ZMnD6QZAE6",
     year = "2024"
 }
